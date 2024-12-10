@@ -17,4 +17,4 @@ con estructuras anidadas, validando automáticamente los campos y mostrando
 tanto los parámetros requeridos como la respuesta esperada. Esto facilita 
 manejar modelos más detallados dentro de la API.
 
-![Swagger](img/body-nested-models.PNG)
+![Swagger](img/body-nested-swaggr.PNG)
